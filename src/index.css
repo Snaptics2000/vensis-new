@@ -1,0 +1,7 @@
+body{
+    background-image: url("https://jobslab-react.codebasket.xyz/assets/img/banner/banner-2.jpg");
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    overflow-x: hidden;
+}

@@ -1,0 +1,18 @@
+.resume-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 300px;
+    width: 800px;
+    border-radius: 20px;
+}
+.main-reume-text{
+    text-align: center;
+}
+.profile-head{
+    font-size: 25px;
+}
+.profile-para{
+    width: 400px;
+}

@@ -1,0 +1,115 @@
+.main-about-image{
+    background-image: url("https://usamocha.com/wp-content/uploads/2022/09/Depositphotos_133669796_S.jpg");
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+}
+.main-text-card{
+    padding-top: 400px;
+    text-align: center;
+text-decoration: underline;
+color: white;
+}
+.about-card{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.about-head{
+    color: green;
+    font-size: 40px;
+}
+.about-head2{
+    font-size: 50px;
+}
+.about-para{
+    width: 700px;
+}
+.abouts-services-card{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.flex-about-cards{
+    display: flex;
+    gap: 40px
+}
+.abouts-services-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.flex-about-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.about-icon{
+    font-size: 50px;
+    color: green;
+}
+.about-icon-head{
+    font-size: 25px;
+}
+.about-icon-para{
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+}
+.image-about{
+    width: 400px;
+    border-radius: 10px;
+}
+.image-about2{
+    width: 400px;
+    position: absolute;
+    right: 40px;
+    bottom: -800px;
+    height: 400px;
+    border-radius: 10px;
+}
+.features-card{
+    margin-top: 290px;
+}
+.flex-card-items{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.right-text-card{
+    margin-left: 40px;
+    margin-top: 50px;
+    line-height: 50px;
+}
+.features-head{
+    color: green;
+}
+.features-head2{
+    font-size: 50px;
+}
+.features-para{
+    color: gray;
+}
+.flex-card-icons{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 20;
+}
+.icon-head-end{
+    font-size: 30px;
+}
+.icon-para-end{
+    color: gray;
+}
+@media only screen and (min-width: 1920px){
+    .image-about2{
+        right: 280px;
+    }
+}

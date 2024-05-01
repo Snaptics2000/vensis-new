@@ -1,0 +1,353 @@
+.main-latest-jobs-card{
+    background-color: white;
+    height: auto;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.main-flex-center-jobs-card{
+    display: flex;
+    justify-content: center;
+   
+}
+.text-cards{
+    margin-top: 70px;
+    text-align: center;
+}
+.flex-buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.button-card{
+    width: 100px;
+    height: 40px;
+    outline: none;
+}
+.main-list-jobs-card{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 60px;
+    margin-top: 60px;
+}
+.main-card-text-items{
+    width: 500px;
+    height: 200px;
+    border: 1px solid gray;
+    background-color: #f1f7f4;
+    border-radius: 10px;
+}
+.main-items-flex{
+    display: flex;
+}
+.main-icon-card{
+    width: 80px;
+    height: 80px;
+    border: 1px solid gray;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+    
+}
+.flex-items{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+.main-head-jobs{
+    line-height: 10px;
+    margin-top: 10px;
+}
+.job-head{
+    font-size: 25px;
+}
+.job-para{
+    color: gray;
+}
+.technology-flex{
+    display: flex;
+    gap: 20px; 
+}
+.first-technology-card{
+    text-decoration: underline;
+}
+.tech-card{
+    cursor: pointer;
+}
+.vertical-line-job{
+    height: 120px;
+    width: 2px;
+    background-color: lightgray;
+    margin-top: 20px;
+}
+.apply-button-card{
+    margin-left: 15px;
+}
+.apply-button{
+    height: 40px;
+    width: 100px;
+}
+.apply-button:hover{
+    background-color: #d2f34c;
+    color: white;
+    outline: none;
+    border: none;
+}
+.flex-icon{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: 10px;
+}
+.job-end-card{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.horizantal-line{
+    width: auto;
+    height: 2px;
+    background-color: lightgray;
+}
+.company-image{
+    width: 60px;
+    height: 60px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.more-card-jobs{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 50vh;
+    margin-top: 100px;
+    gap: 20px;
+}
+.job-more-flex-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.job-card-more{
+    background-color: #f1f7f4;
+    height: 200px;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 15px;
+}
+.icon-head{
+    font-size: 50px;
+    color: green;
+}
+
+.more-job-head{
+    font-size: 20px;
+}
+.first-span{
+    background-color: green;
+    color: white;
+    margin-top: 3px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+.second-span{
+    color: gray;
+    font-size: 14px;
+}
+.choose-work-card{
+    background-color:#f1f7f4;
+    height: 80vh;
+}
+.work-card-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+
+}
+.main-flex{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+.main-work-card{
+    width: 350px;
+    text-align: center;
+    border-right: 1px solid lightgray;
+    margin: 4px;
+    line-height: 30px;
+}
+.main-work-head{
+    font-size: 40px;
+    width: 200px;
+    font-weight: bold;
+}
+.main-work-para{
+    color: gray;
+    width: 250px;
+}
+.view-more-jobs{
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    color: white;
+    background-color: green;
+    border: none;
+    font-size: 20px;
+}
+.work-item-head{
+    font-size: 25px;
+}
+.each-para{
+    font-size: 18px;
+    color: gray;
+}
+.main-each-head{
+    font-size: 60px;
+    color: green;
+}
+.testmonial-card{
+    background-color: white;
+    height: 80vh;
+
+}
+.main-test-texts{
+    text-align: center;
+}
+.main-testmonial-card{
+    height: 400px;
+    width: 350px;
+    border: 1px solid lightgray;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.candiate-head{
+    text-align: center;
+    font-size: 40px;
+}
+.candidate-para{
+    text-align: center;
+    font-size: 15px;
+}
+.test-image{
+    height: 100px;
+    border-radius: 50%;
+    width: 100px;
+}
+.main-test-flex-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.icons-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    font-size: 30px;
+}
+.icon-card-one{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.icon-one{
+    padding-left: 2px;
+    padding-top: 6px;
+}
+.icon-card-one:hover{
+    background-color: green;
+    color: white;
+}
+.pramotin-jobs{
+    background-color: #f1f7f4;
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.promotin-para{
+    width: 400px;
+}
+.left-text-card{
+    line-height: 20px;
+    margin-top: 90px;
+}
+.pramotin-head{
+    font-size: 40px;
+}
+.main-flex-items{
+    display: flex;
+}
+.flex-items-all{
+    display: flex;
+    margin-left: 150px;
+}
+.smalll-horizantal-line{
+width: 100px;
+height: 2px;
+background-color: green;
+margin-top: 17px;
+}
+.step-one-button{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 4px;
+    cursor: pointer;
+}
+.resume-card-bitton{
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.btn-color{
+    background-color: green;
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 4px;
+    cursor: pointer;
+    color: white;
+}
+@media only screen and (min-width: 1920px){
+    .main-list-jobs-card{
+        margin-top: 30px;
+    }
+    .text-cards{
+        margin-top: 0px;
+    }
+    .main-flex{
+        margin-left: 100px;
+        
+    }
+    .work-card-flex{
+        margin-left: 200px;
+    }
+    .choose-work-card{
+        height: 60vh;
+    }
+    .testmonial-card{
+        margin-top: 170px;
+    }
+}

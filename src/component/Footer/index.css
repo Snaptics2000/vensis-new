@@ -1,0 +1,20 @@
+.footer-card{
+    background-color: #244034 ;
+    height: 50vh;
+    width: 100%;
+    color: white;
+}
+.main-footer-flex{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.footer-para{
+    color: gray;
+    width: 300px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.footer-para1{
+    color: gray;
+}
