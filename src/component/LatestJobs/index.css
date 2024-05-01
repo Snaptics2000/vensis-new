@@ -220,6 +220,9 @@
 .main-test-texts{
     text-align: center;
 }
+.testmonial-card{
+    height:auto;
+}
 .main-testmonial-card{
     height: 400px;
     width: 350px;
