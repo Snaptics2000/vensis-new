@@ -214,15 +214,14 @@
 }
 .testmonial-card{
     background-color: white;
-    height: 80vh;
+    height: auto;
+    margin-bottom:30px;
 
 }
 .main-test-texts{
     text-align: center;
 }
-.testmonial-card{
-    height:auto;
-}
+
 .main-testmonial-card{
     height: 400px;
     width: 350px;
