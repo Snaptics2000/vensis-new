@@ -160,7 +160,7 @@
 }
 .choose-work-card{
     background-color:#f1f7f4;
-    height: 80vh;
+    height: auto;
 }
 .work-card-flex{
     display: flex;
