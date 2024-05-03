@@ -67,7 +67,7 @@
     width: 140px;
     border-radius: 8px;
     border: none;
-    background-color: green;
+    background-color: #6C4ACF;
     color: white;
     text-align: center;
     font-size: 20px;
@@ -76,7 +76,7 @@
  .main-search:hover{
     background-color: white;
     color: black;
-    border: 1px solid green;
+    border: 1px solid #4C2F82;
  }
  .items-selected{
     border: none;
@@ -94,7 +94,7 @@
  .vertical-line{
     height: 60px;
     width: 3px;
-    background-color: green;
+    background-color: #4C2F82;
     margin-top: 10px;
  }
  .main-suits-card{
@@ -120,13 +120,14 @@
  }
  .icon-job{
     font-size: 25px;
-    color: green;
+    color: #4C2F82;
  }
 .icon-para{
     color: gray;
 }
 .browse-job-button{
-    background-color: green;
+    background-color: #6C4ACF;
+    color: white;
     color: white;
     width: 150px;
     height: 50px;

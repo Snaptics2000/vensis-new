@@ -6,6 +6,8 @@ import { CiUser } from "react-icons/ci";
 import { BiSolidCopyAlt } from "react-icons/bi";
 
 
+
+
 import './index.css'
 import Footer from "../Footer";
 
@@ -47,8 +49,8 @@ const About = () =>{
                     </div>
                     </div>
                     <div>
-                        <img src="https://jobslab-react.codebasket.xyz/assets/img/about/home-1-about-1.jpg" className="image-about" alt="profile"/>
-                        <img src="https://jobslab-react.codebasket.xyz/assets/img/about/home-1-about-3.jpg" className="image-about2" alt="profile"/>
+                        <img src="https://res.cloudinary.com/djo2jovhh/image/upload/v1714727852/d9st3mwl4d9dbmrplsf4.jpg" className="image-about" alt="profile"/>
+                        <img src="https://res.cloudinary.com/djo2jovhh/image/upload/v1714727851/pzeudsucowyp5rikua7p.jpg" className="image-about2" alt="profile"/>
                      </div>
                 </div>
             </div>
@@ -56,7 +58,7 @@ const About = () =>{
         <div className="features-card">
             <div className="flex-card-items"> 
                 <div>
-                    <img src="https://jobslab-react.codebasket.xyz/assets/img/about/home-1-about-2.jpg" alt="profile"/>
+                    <img src="https://blogbymichele.files.wordpress.com/2023/04/success.jpg?w=900" alt="profile"/>
                 </div>
                 <div className="right-text-card">
                     <h1 className="features-head">SUCCESS</h1>
@@ -64,17 +66,17 @@ const About = () =>{
                     <p className="features-para">All jobs, resumes and companies are reviewed before they get published in order to deliver quality possible to all of our users.</p>
                     <div className="flex-card-icons">
                         <div>
-                        <CiUser size={65} color="green" />
+                        <CiUser size={65} color="#4C2F82" />
                         <h1 className="icon-head-end">140+</h1>
                         <p className="icon-para-end">Pro Member</p>
                         </div>
                         <div>
-                        <IoDiamondOutline size={65} color="green" />
+                        <IoDiamondOutline size={65} color="#4C2F82" />
                         <h1 className="icon-head-end">250+</h1>
                         <p className="icon-para-end">Jobs</p>
                         </div>
                         <div>
-                        <BiSolidCopyAlt  size={65} color="green"/>
+                        <BiSolidCopyAlt  size={65} color="#4C2F82"/>
                         <h1 className="icon-head-end">199+</h1>
                         <p className="icon-para-end">Resumes</p>
                         </div>

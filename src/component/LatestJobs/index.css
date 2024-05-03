@@ -34,7 +34,7 @@
     width: 500px;
     height: 200px;
     border: 1px solid gray;
-    background-color: #f1f7f4;
+    background-color: #f9f8ff;
     border-radius: 10px;
 }
 .main-items-flex{
@@ -89,7 +89,8 @@
     width: 100px;
 }
 .apply-button:hover{
-    background-color: #d2f34c;
+    background-color: #6C4ACF
+    ;
     color: white;
     outline: none;
     border: none;
@@ -131,7 +132,7 @@
 }
 
 .job-card-more{
-    background-color: #f1f7f4;
+    background-color: #EEEDF9;
     height: 200px;
     width: 250px;
     border-radius: 20px;
@@ -140,14 +141,14 @@
 }
 .icon-head{
     font-size: 50px;
-    color: green;
+    color: #6C4ACF;
 }
 
 .more-job-head{
     font-size: 20px;
 }
 .first-span{
-    background-color: green;
+    background-color: #4C2F82;
     color: white;
     margin-top: 3px;
     margin-right: 10px;
@@ -159,7 +160,7 @@
     font-size: 14px;
 }
 .choose-work-card{
-    background-color:#f1f7f4;
+    background-color:#F1F2F2;
     height: 80vh;
 }
 .work-card-flex{
@@ -197,7 +198,7 @@
     width: 200px;
     margin-top: 20px;
     color: white;
-    background-color: green;
+    background-color: #4C2F82;
     border: none;
     font-size: 20px;
 }
@@ -210,7 +211,7 @@
 }
 .main-each-head{
     font-size: 60px;
-    color: green;
+    color: #4C2F82;
 }
 .testmonial-card{
     background-color: white;
@@ -269,11 +270,11 @@
     padding-top: 6px;
 }
 .icon-card-one:hover{
-    background-color: green;
+    background-color: #4C2F82;
     color: white;
 }
 .pramotin-jobs{
-    background-color: #f1f7f4;
+    background-color: #EEEDF9;
     height: 80vh;
     width: 100%;
     display: flex;
@@ -300,7 +301,7 @@
 .smalll-horizantal-line{
 width: 100px;
 height: 2px;
-background-color: green;
+background-color: #4C2F82;
 margin-top: 17px;
 }
 .step-one-button{
@@ -320,7 +321,7 @@ margin-top: 17px;
     margin-top: 50px;
 }
 .btn-color{
-    background-color: green;
+    background-color: #4C2F82;
     width: 120px;
     height: 40px;
     font-size: 20px;

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { CiBookmark } from "react-icons/ci";
 import { VscGitStashApply } from "react-icons/vsc";
 import { MdOutlineMail } from "react-icons/md";
+import bgImage from "../../../src/assets/images/bg.png"
 
 
 
@@ -39,7 +40,7 @@ const HomeBanner = () => {
         <Navbar/>
         <div className="main-banner">
             <div>
-                <img src="https://jobslab-react.codebasket.xyz/assets/img/banner/banner-img-bg-1.png" alt="banner-background" className="image-rotate" />
+                <img src={bgImage} alt="banner-background" className="image-rotate" />
                 <img src="https://jobslab-react.codebasket.xyz/assets/img/banner/banner-21.png" alt="banner-logo" className="banner-image-posistion" />
             </div>
             <div className="text-banner-card">
