@@ -160,7 +160,7 @@
     font-size: 14px;
 }
 .choose-work-card{
-    background-color:#F1F2F2;
+    background-color:#f1f7f4;
     height: 80vh;
 }
 .work-card-flex{
@@ -215,12 +215,14 @@
 }
 .testmonial-card{
     background-color: white;
-    height: 80vh;
+    height: auto;
+    margin-bottom:30px;
 
 }
 .main-test-texts{
     text-align: center;
 }
+
 .main-testmonial-card{
     height: 400px;
     width: 350px;
